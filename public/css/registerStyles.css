@@ -1,0 +1,70 @@
+
+
+
+/* Add padding to containers */
+.container {
+	width:80% !important;
+	margin:auto;
+	background:white;
+	font-size:14px;
+	font-family:Verdana;
+	color:black;
+    padding: 16px;
+}
+
+
+
+/* Full-width input fields */
+input[type=text], input[type=mobile], input[type=email], textarea, select {
+  width: 80% !important;
+  padding: 15px !important;
+  margin: 15px 20px 30px 20px !important;
+  display: inline-block !important;
+  border: none !important;
+  background: #f1f1f1 !important;
+  
+}
+
+input[type=text]:focus, input[type=password]:focus,  input[type=mobile]:focus, input[type=email]:focus, textarea:focus {
+  background-color: #ddd !important;
+  outline: 1 !important;
+}
+
+hr {
+  border: 1px solid #f1f1f1 !important;
+  margin-bottom: 25px !important;
+}
+
+/* style for the register button */
+.registerbtn {
+  border: none !important;
+  outline: 0;
+  display: inline-block !important;
+  padding: 15px 35px !important;
+  color: white !important;
+  background-image: linear-gradient(to top, #2e12e3 , #160778) !important;
+  text-align: center !important;
+  cursor: pointer !important;
+   -webkit-transition:all .1s linear !important;
+  -o-transition:all .1s linear !important;
+  transition:all .1s linear !important;
+}
+
+
+.registerbtn:hover {
+	 opacity: 0.8 !important;
+     background-image: linear-gradient(to bottom, #1adbdb , #160778) !important;
+     background-color: #555 !important;
+     color: white !important;
+     transform:scale(1.1) !important; 
+     -webkit-transform:scale(1.1) !important;
+}
+
+/* Add a blue text color to links */
+
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1 !important;
+  text-align: center !important;
+}

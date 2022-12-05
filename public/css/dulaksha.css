@@ -1,0 +1,185 @@
+.textBox1{
+    border: 1px solid rgb(187, 187, 187);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 84px;
+    border-radius: 5px;
+}
+.textBox2{
+    border: 1px solid rgb(187, 187, 187);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 90px;
+    border-radius: 5px;
+    
+}
+
+.topic {
+    font-family: Georgia, serif;
+    color: rgb(13, 13, 128);
+    padding: 70px;
+    text-decoration: underline;
+  }
+  .topic1 {
+    font-family: Georgia, serif;
+    color: rgb(13, 13, 128);
+    padding: 55px;
+    text-decoration: underline;
+  }
+
+.button {
+    background-color: #9e0505;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 12px;
+    margin: 150px 2px;
+  }
+
+
+
+/*COMMON TIME TABLE start*/
+
+.bg-light-gray {
+    background-color: #e7e7e7a2;
+}
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 2px;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 8px solid #183d62;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #266bb1;
+}
+
+
+.bg-sky.box-shadow {
+    box-shadow: 0px 5px 0px 0px #00a2a7
+}
+
+.bg-orange.box-shadow {
+    box-shadow: 0px 5px 0px 0px #af4305
+}
+
+.bg-green.box-shadow {
+    box-shadow: 0px 5px 0px 0px #4ca520
+}
+
+.bg-yellow.box-shadow {
+    box-shadow: 0px 5px 0px 0px #dcbf02
+}
+
+.bg-pink.box-shadow {
+    box-shadow: 0px 5px 0px 0px #e82d8b
+}
+
+.bg-purple.box-shadow {
+    box-shadow: 0px 5px 0px 0px #8343e8
+}
+
+.bg-lightred.box-shadow {
+    box-shadow: 0px 5px 0px 0px #d84213
+}
+
+
+.bg-sky {
+    background-color: #02c2c7
+}
+
+.bg-orange {
+    background-color: #e95601
+}
+
+.bg-green {
+    background-color: #5bbd2a
+}
+
+.bg-yellow {
+    background-color: #f0d001
+}
+
+.bg-pink {
+    background-color: #ff48a4
+}
+
+.bg-purple {
+    background-color: #9d60ff
+}
+
+.bg-lightred {
+    background-color: #ff5722
+}
+
+.padding-15px-lr {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.padding-5px-tb {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.margin-10px-bottom {
+    margin-bottom: 15px;
+}
+.border-radius-5 {
+    border-radius: 15px;
+}
+
+.margin-10px-top {
+    margin-top: 10px;
+}
+.font-size14 {
+    font-size: 14px;
+}
+
+.text-light-gray {
+    color: #d6d5d5;
+}
+.font-size13 {
+    font-size: 16px;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 4px solid #dee2e6;
+}
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 11px solid #dee2e6;
+}
+
+/*COMMON TIME TABLE end*/
+
+/* SEARCH START */
+
+  .topnav .search-container {
+    float: right;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 25px;
+    background: rgb(207, 223, 236);
+    border:none;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: rgb(13, 126, 218);
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+  
+  /* SEARCH END */

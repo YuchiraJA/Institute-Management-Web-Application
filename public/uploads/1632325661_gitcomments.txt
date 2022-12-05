@@ -1,0 +1,11 @@
+git clone link 
+open the vs code (code .)
+create branch/ git checkout -b branchname
+create file and /git add fileName.js
+git commit -m "Message"
+git push origin mybranchName
+
+
+
+git checkout -b dulsara
+git branch
